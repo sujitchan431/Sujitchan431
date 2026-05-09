@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi💫 I'm Sujit Chankhore!:
 🔭 I’m currently working on **AI-native products, agentic automation systems, and scalable EdTech platforms focused on personalized learning & productivity**<br><br>👯 I’m looking to collaborate on **AI SaaS, multi-agent workflows, product strategy, automation systems, and startup growth experiments**<br><br>🤝 I’m looking for help with **scaling AI products, GTM strategy, distribution, and building high-leverage systems that generate recurring revenue**<br><br>🌱 I’m currently learning **LLM orchestration, RAG pipelines, AI product management, distributed agent systems, and advanced automation engineering**<br><br>💬 Ask me about **AI Product Management, startup building, automation frameworks, EdTech innovation, SaaS growth, and turning ideas into execution**<br><br>⚡ Fun fact: **I went from mechanical engineering to building AI-powered systems and believe the future belongs to builders who combine product thinking + AI leverage**<br>
 
 
