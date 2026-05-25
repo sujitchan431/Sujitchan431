@@ -2,6 +2,19 @@
 🔭 I’m currently working on **AI-native products, agentic automation systems, and scalable EdTech platforms focused on personalized learning & productivity**<br><br>👯 I’m looking to collaborate on **AI SaaS, multi-agent workflows, product strategy, automation systems, and startup growth experiments**<br><br>🤝 I’m looking for help with **scaling AI products, GTM strategy, distribution, and building high-leverage systems that generate recurring revenue**<br><br>🌱 I’m currently learning **LLM orchestration, RAG pipelines, AI product management, distributed agent systems, and advanced automation engineering**<br><br>💬 Ask me about **AI Product Management, startup building, automation frameworks, EdTech innovation, SaaS growth, and turning ideas into execution**<br><br>⚡ Fun fact: **I went from mechanical engineering to building AI-powered systems and believe the future belongs to builders who combine product thinking + AI leverage**<br>
 
 
+## 🚀 Featured Projects
+
+- **[RecoverOS](https://github.com/sujitchan431/RecoverOS)** — AI-powered posture nudge Chrome extension. On-device computer vision, 48 features, Stripe monetization.
+
+- **[BankGaadi.com](https://github.com/sujitchan431/BankGaadi.com)** — Vehicle repossession auction aggregator. FastAPI + Next.js + Playwright scrapers.
+
+- **[GetAllOS.com](https://github.com/sujitchan431/GetAllOS.com)** — AI-powered Life OS platform. Turborepo + Next.js + Claude API.
+
+- **[DrAdityaMD](https://github.com/sujitchan431/DrAdityaMD)** — Medical practice website with auto-blog via DeepSeek API.
+
+- **[Viksepa](https://github.com/sujitchan431/Viksepa)** — Screen addiction minimizer for kids. Kotlin + Swift dual-platform.
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujitchan431) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujit-chankhore) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sujitchan431) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sujitchan431) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@sujitchankhore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujitchan431@gmail.com) 
 
